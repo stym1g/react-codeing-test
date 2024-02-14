@@ -1,0 +1,7 @@
+Steps to run code locally
+1. Install nodejs on your local machine
+2. Take source code from repo as zip file and extract it.
+3. Open cmd or terminal and goto project directory on terminal or cmd
+4. run command- npm install
+5. run command npm start
+6. React application will start on your browser.
